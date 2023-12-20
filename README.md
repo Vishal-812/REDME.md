@@ -1,3 +1,3 @@
 # REDME.md
-##editing the repository
+## editing the repository
 It's a markdown file in this repository
